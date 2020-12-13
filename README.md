@@ -1,5 +1,7 @@
 # Open Dataset Research & Analysis Project
 
+**Team members:** Mary Ton, Mahrshi Bakshi, Emmanuel Duku, Cujo Frimpong, Dalton Stoner
+
 ## Capstone project for INST 490
 
 This is the repository for the INST490 Capstone Project: Open Dataset Research and Analysis. Here you can find a .docx file of the project's user guide as well as its Python notebooks and other relevant files.
