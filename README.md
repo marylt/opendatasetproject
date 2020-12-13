@@ -19,7 +19,7 @@ This file is the Python notebook used for analyzing the cleaned dataset used for
 ### [User Guide, Data Cleaning & Analyses.docx](https://github.com/marylt/opendatasetproject/blob/main/User%20Guide%2C%20Data%20Cleaning%20%26%20Analyses.docx)
 This document file is the complete user guide created for this project. It is 40 pages and includes an introduction of the project, background on the CDC website, an explanation of the chosen dataset, a breakdown of the dataset cleaning process, and several explained data analyses.
 - Please note, you have to download the file and open the file in order to preview it.
-To access the complete visualizations/analyses mentioned in the user guide, refer to the links below:
+<p>To access the complete visualizations/analyses mentioned in the user guide, refer to the links below:</p>
 - [Power BI Dashboard](https://dstoner05.github.io/490%20Project/index.html)
 - [Tableau Dashboard 1](https://public.tableau.com/profile/kwadwo.frimpong#!/vizhome/DrugOverdoseIntheUS-CoastalRepresentation/DeathRate-CoastalRep)
 - [Tableau Dashboard 2](https://public.tableau.com/profile/mahrshi#!/vizhome/TableauINST4901/Sheet2?publish=yes)
